@@ -13,7 +13,7 @@ body {
     align-items: center;
     padding: 24px;
 
-    background: #fff8ee;
+    background: #ffffff;
     color: #39334a;
     font-family: 'Nunito', sans-serif;
     text-align: center;
@@ -194,7 +194,7 @@ h1 {
 
 .closing {
     margin-top: 18px;
-    font-size: 16px;
+    font-size: 60px;
     font-weight: 900;
     color: #d76c8c;
 }
