@@ -14,7 +14,7 @@ body {
     padding: 24px;
 
     background: #ffffff;
-    color: #39334a;
+    color: #201b30;
     font-family: 'Nunito', sans-serif;
     text-align: center;
     overflow-x: hidden;
@@ -55,7 +55,7 @@ h1 {
     font-size: clamp(28px, 8vw, 39px);
     font-weight: 900;
     line-height: 1.2;
-    color: #7b61a8;
+    color: #3e3154;
 }
 
 .cake {
@@ -108,7 +108,7 @@ h1 {
     position: absolute;
     width: 120px;
     height: 30px;
-    background: #ffb5c2;
+    background: #FFD59A;
     border-radius: 50%;
     top: 30px;
     left: 30px;
@@ -119,7 +119,7 @@ h1 {
     position: absolute;
     width: 120px;
     height: 35px;
-    background: #e98da6;
+    background: #ffca80;
     top: 40px;
     left: 30px;
     z-index: 1;
@@ -129,7 +129,7 @@ h1 {
     position: absolute;
     width: 150px;
     height: 45px;
-    background: #bd8bdd;
+    background: #fff0da;
     border-radius: 12px 12px 22px 22px;
     top: 65px;
     left: 15px;
@@ -157,7 +157,7 @@ h1 {
 .message h2 {
     font-size: clamp(19px, 5vw, 25px);
     font-weight: 900;
-    color: #e26d8c;
+    color: #3e3154;
     line-height: 1.5;
 }
 
